@@ -18,5 +18,8 @@ int main()
     varIbu2->tambahAnak(varAnak3);
     varIbu2->tambahAnak(varAnak2);
 
+    varIbu1->cetakAnak();
+    varIbu2->cetakAnak();
+
     return 0;
 }
